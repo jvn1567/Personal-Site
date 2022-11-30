@@ -1,0 +1,16 @@
+{
+  "projects": [
+    {
+      "title": "Decision Tree",
+      "description": "Description filler text"
+    },
+    {
+      "title": "Chess",
+      "description": "Description filler text"
+    },
+    {
+      "title": "Sudoku Solver",
+      "description": "Description filler text"
+    }
+  ]
+}

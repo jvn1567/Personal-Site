@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link, NavLink } from 'react-router-dom'
+import { NavLink } from 'react-router-dom'
 import './style.css';
 
 const MainNav = () => {
@@ -7,20 +7,20 @@ const MainNav = () => {
   return (
     <nav role='navigation' aria-label='main-navigation'>
 
-      <div classname='left-links'>
-        <NavLink className="navbar-item" to="/">
+      <div className='nav-links'>
+        <NavLink className="nav-item" to="/">
           Home
         </NavLink>
       </div>
 
-      <div classname='right-links'>
-        <NavLink className="navbar-item" to="/">
-          Projects
+      <div className='nav-links'>
+        <NavLink className="nav-item" to="/">
+          Work
         </NavLink>
-        <NavLink className="navbar-item" to="/about">
+        <NavLink className="nav-item" to="/about">
           About
         </NavLink>
-        <NavLink className="navbar-item" to="/about">
+        <NavLink className="nav-item" to="/about">
           Resume
         </NavLink>
       </div>

@@ -1,0 +1,14 @@
+.main-project-block {
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+
+.project-tile {
+  padding-left: 10%;
+  padding-right: 10%;
+  margin: 1rem;
+}
+
+.project-tile h2, h1, p {
+  margin: 0;
+}
