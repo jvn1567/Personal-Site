@@ -4,7 +4,7 @@ import './style.css';
 const About = () => {
   return (
     <div>
-      About Page
+      <p>About Page</p>
     </div>
   )
 }

@@ -1,16 +1,22 @@
 {
   "projects": [
     {
-      "title": "Decision Tree",
-      "description": "Description filler text"
+      "description": "Description filler text",
+      "github": "https://github.com/jvn1567/DecisionTree",
+      "image": "../../assets/chess.gif",
+      "title": "Decision Tree"
     },
     {
-      "title": "Chess",
-      "description": "Description filler text"
+      "description": "Description filler text",
+      "github": "https://github.com/jvn1567/Chess",
+      "image": "https://user-images.githubusercontent.com/56368354/142670646-611e3c6d-c7dc-4adc-bca2-c4248feab302.gif",
+      "title": "Chess"
     },
     {
-      "title": "Sudoku Solver",
-      "description": "Description filler text"
+      "description": "Description filler text",
+      "github": "https://github.com/jvn1567/SudokuSolver",
+      "image": "https://user-images.githubusercontent.com/56368354/124191254-65931200-da78-11eb-8dde-b3c2d9204850.gif",
+      "title": "Sudoku Solver"
     }
   ]
 }

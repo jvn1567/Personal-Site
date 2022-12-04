@@ -12,3 +12,7 @@
 .project-tile h2, h1, p {
   margin: 0;
 }
+
+img {
+  width: 100%;
+}
