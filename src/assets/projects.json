@@ -1,22 +1,40 @@
 {
   "projects": [
     {
-      "description": "Description filler text",
+      "description": "Implementation of a decision tree classifier for machine learning. The program accepts CSV pre-classified training data.",
       "github": "https://github.com/jvn1567/DecisionTree",
       "image": "../../assets/chess.gif",
       "title": "Decision Tree"
     },
     {
-      "description": "Description filler text",
+      "description": "Runs a game of chess against a minimax AI. Includes tile highlights for gameplay clarity.",
       "github": "https://github.com/jvn1567/Chess",
       "image": "https://user-images.githubusercontent.com/56368354/142670646-611e3c6d-c7dc-4adc-bca2-c4248feab302.gif",
       "title": "Chess"
     },
     {
-      "description": "Description filler text",
+      "description": "A study tool that includes flashcards and quizes. Card sets and quiz questions can be added and modified.",
+      "github": "https://github.com/jvn1567/StudyTool",
+      "image": "https://user-images.githubusercontent.com/56368354/128803458-da77885f-893a-4c54-9b77-e6ca7d3910a5.gif",
+      "title": "Study Tool"
+    },
+    {
+      "description": "Solves or checks user-inputed Sudoku puzzles.",
       "github": "https://github.com/jvn1567/SudokuSolver",
       "image": "https://user-images.githubusercontent.com/56368354/124191254-65931200-da78-11eb-8dde-b3c2d9204850.gif",
       "title": "Sudoku Solver"
+    }, 
+    {
+      "description": "A fire spreading simulation with a map editor.",
+      "github": "https://github.com/jvn1567/WildfireSimulation",
+      "image": "https://user-images.githubusercontent.com/56368354/130385002-8233ce91-7cba-479c-89c7-564379053ecc.gif",
+      "title": "Wildfire Simulation"
+    },
+    {
+      "description": "Runs a 2-player connect four game.",
+      "github": "https://github.com/alvinng9/ConnectFour",
+      "image": "https://user-images.githubusercontent.com/56368354/127702860-ee5dec05-88e1-4b86-9cd4-953a19d718ee.gif",
+      "title": "Connect Four"
     }
   ]
 }

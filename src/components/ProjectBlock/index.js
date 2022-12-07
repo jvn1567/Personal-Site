@@ -7,7 +7,9 @@ const ProjectBlock = () => {
     <div className='main-project-block'>
       {Data.projects.map( (project) => (
         <div className='project-tile'>
-          <img src={project.image} alt='Project GIF'></img>
+          <a href={project.github} target="_blank" rel="noopener noreferrer">
+            <img src={project.image} alt='Project GIF'></img>
+          </a>
           <h2>{project.title}</h2>
           <p>{project.description}</p>
           <a href={project.github} target="_blank" rel="noopener noreferrer">GitHub</a>

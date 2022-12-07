@@ -13,7 +13,7 @@ const Home = () => {
         <a href='mailto: jvn1567@gmail.com' target="_blank" rel="noopener noreferrer">Email</a>
         <a href='https://www.linkedin.com/in/jvn1567/' target="_blank" rel="noopener noreferrer">LinkedIn</a>
         <a href='https://github.com/jvn1567' target="_blank" rel="noopener noreferrer">GitHub</a>
-        <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'>Resume</a>
+        <a href="../../assets/John Nguyen Resume.pdf" target="_blank" rel="noopener noreferrer">Resume</a>
       </div>
       <div className='project-block'>
         <ProjectBlock />

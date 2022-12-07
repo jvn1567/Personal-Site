@@ -20,7 +20,7 @@ const MainNav = () => {
         <NavLink className="nav-item" to="/about">
           About
         </NavLink>
-        <NavLink className="nav-item" to="/about">
+        <NavLink className="nav-item" to="../../assets/John Nguyen Resume.pdf" target="_blank" rel="noopener noreferrer">
           Resume
         </NavLink>
       </div>

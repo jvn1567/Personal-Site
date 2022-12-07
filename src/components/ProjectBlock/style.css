@@ -10,9 +10,10 @@
 }
 
 .project-tile h2, h1, p {
-  margin: 0;
+  margin: 0.5rem;
 }
 
 img {
   width: 100%;
+  margin-top: 2rem;
 }
